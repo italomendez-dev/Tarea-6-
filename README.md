@@ -6,7 +6,7 @@ iterativos DFS y BFS
 
 ## Ejercicios
 
-- ejercicio1.cpp: BST con inserción y eliminación iterativas, recorrido in-order con pila y cálculo de altura.
+- main.cpp: BST con inserción y eliminación iterativas, recorrido in-order con pila y cálculo de altura.
 - ejercicio2.cpp: Red-Black Tree con rotaciones, recoloración, verificación de propiedades y comparación con BST.
 - ejercicio3.cpp: DFS iterativo con pila para encontrar un camino raíz-hoja cuya suma sea K.
 - ejercicio4.cpp: BFS iterativo con cola para verificar si un árbol es completo, calcular su ancho máximo y profundidad mínima.
