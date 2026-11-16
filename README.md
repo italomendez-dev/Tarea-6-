@@ -4,6 +4,10 @@
 Implementación de un BST iterativo, un Red-Black Tree y algoritmos
 iterativos DFS y BFS
 
+## Integrantes
+- Italo Mendez
+- Nicolas Trillo
+
 ## Ejercicio 1(main): BST iterativo
 
 Al insertar n valores distintos en orden ascendente, cada nuevo nodo se agrega como hijo derecho del anterior, formando una cadena de altura h = n − 1. Buscar o insertar un valor mayor que todos los existentes requiere recorrer n nodos; por ello, el costo en el peor caso es Θ(n), y por tanto O(n).
